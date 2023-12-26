@@ -1,1 +1,1 @@
-[![42 Project Score](https://42-project-badge.glitch.me/users/lucavall/project/libft)](https://github.com/ricardoreves/42-project-badge)
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=lucavall)](https://github.com/mohouyizme/1337-readme)
